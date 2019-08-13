@@ -1,0 +1,1 @@
+This is an Android Application. It will help users find holiday deals
